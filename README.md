@@ -28,7 +28,7 @@ Jika ragu, gunakan nilai default `100`.
 5. **Lihat Hasil di Folder `dist`**  
 Setelah proses selesai, hasil konversi akan otomatis tersimpan di dalam folder `dist`.
 
-6. **Masukkan Hasil ke Kode Arduino**  
+6. **Masukkan Hasil ke Kode Arduino example_dasai_clone**  
 Gunakan file hasil konversi `.h` ke dalam kode Arduino yang telah disediakan.  
 File tersebut berisi array bitmap yang siap ditampilkan pada OLED.
 
